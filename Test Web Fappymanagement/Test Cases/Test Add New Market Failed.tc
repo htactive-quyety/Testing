@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the admin add new market unsuccessfully with blank all field
+
+Verify that the admin add new market unsuccessfully with blank Name</description>
+   <name>Test Add New Market Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a0526b4-9458-451f-9601-e6c0d84e334c</testCaseGuid>
+</TestCaseEntity>
